@@ -1,4 +1,6 @@
 ![GenAi Hackahon](https://github.com/yahyachammami/-keywords-Generating-/assets/120028819/4d90db8e-d07b-415e-8dbd-338f683784fe)
+
+
 "𝐎𝐩𝐭𝐢𝐦𝐚𝐥𝐓𝐢𝐦𝐞 " Our 𝐆𝐞𝐧𝐀𝐈-powered app solution for the 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐯𝐞 𝐚𝐢 𝐇𝐚𝐜𝐤𝐚𝐭𝐡𝐨𝐧 . 
 
 𝐎𝐩𝐭𝐢𝐦𝐚𝐥𝐓𝐢𝐦𝐞 streamlines workflows by automatically generating keywords from medical transcripts using text input or 𝘁𝗵𝗲 𝘀𝗽𝗲𝗲𝗰𝗵-𝘁𝗼-𝘁𝗲𝘅𝘁 𝗳𝗲𝗮𝘁𝘂𝗿𝗲, allowing doctors to dictate data 𝗵𝗮𝗻𝗱𝘀-𝗳𝗿𝗲𝗲.
